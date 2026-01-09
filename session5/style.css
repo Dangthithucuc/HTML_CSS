@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+.doctor-card {
+    width: 350px;
+    background-color: #e9f6fb;
+    text-align: center;
+    padding: 30px 20px;
+    margin: 50px auto;
+    border-radius: 6px;
+}
+
+.doctor-card img {
+    width: 180px;
+    height: auto;
+    border-radius: 4px;
+}
+
+.doctor-card h3 {
+    margin-top: 15px;
+    color: #1e90ff;
+    font-size: 22px;
+}
+
+.doctor-card p {
+    margin-top: 5px;
+    color: #555;
+    font-size: 16px;
+}
