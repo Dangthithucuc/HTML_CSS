@@ -1,0 +1,53 @@
+body {
+    font-size:Arial, sans-serif ;
+    background-color: rgba(232, 230, 226, 0.514);
+  
+}
+header {
+    background-color:#0ea4e9b7 ;
+    text-align: center;
+    line-height: 80px;
+    border-radius:  20px;
+      color: aliceblue;
+
+}
+.menu {
+    line-height: 40px;
+    text-align: center;
+     background-color: rgba(47, 141, 200, 0.374);
+}
+a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+     color: rgba(35, 96, 201, 0.853);
+    padding: 10px;
+    
+    
+}
+#dbody {
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.81);
+   
+}
+.menu :hover {
+    color: #0284c7;
+}
+#end {
+    border: 1px solid rgba(0, 140, 255, 0.467);
+    background-color: rgba(0, 153, 255, 0.13);
+    border-radius: 20px ;
+    
+}
+#om {
+    font-size: 30px;
+    font-weight: bold;
+}
+footer {
+    background-color: rgba(8, 8, 124, 0.852);
+    line-height: 40px;
+    border-radius: 20px;
+    text-align: center;
+}
